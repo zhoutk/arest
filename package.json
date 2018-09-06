@@ -1,0 +1,32 @@
+{
+  "name": "arest",
+  "version": "0.1.0",
+  "description": "a rest server use kao2, typescript & mongo db.",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoutk/arest.git"
+  },
+  "keywords": [
+    "rest",
+    "koa2",
+    "typescript",
+    "mongo"
+  ],
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "author": "zhoutk@189.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoutk/arest/issues"
+  },
+  "homepage": "https://github.com/zhoutk/arest#readme",
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/node": "^10.9.4"
+  }
+}
