@@ -5,6 +5,6 @@ Object.assign(global, {foo})
 
 import {show} from './bar'
 
-console.log(`hello world! -- ${foo}`);
+console.log(`hello world! -- ${foo}`)
 
 show()

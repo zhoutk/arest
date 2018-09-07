@@ -17,7 +17,8 @@
     "mongo"
   ],
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "mongodb": "^3.1.4"
   },
   "author": "zhoutk@189.cn",
   "license": "MIT",

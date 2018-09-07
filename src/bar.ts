@@ -1,6 +1,5 @@
 const bar = foo  
 
-export function show(){
-    console.log(`bar's value -- ${bar}`);
+export function show() {
+    console.log(`bar's value -- ${bar}`)
 }
-
