@@ -1,6 +1,6 @@
 # mine
 yarn.lock
-./dist/
+dist/
 # Logs
 logs
 *.log
